@@ -1,0 +1,7 @@
+org\example\ai\AIClient.class
+org\example\waits\SmartWait.class
+org\example\selfhealing\SelfHealingTest.class
+org\example\maintenance\SmartMaintenance.class
+org\example\optimization\TestOptimizer.class
+org\example\testgeneration\TestCaseGenerator.class
+org\example\analysis\FailureAnalyzer.class
